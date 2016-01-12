@@ -1,0 +1,45 @@
+body {
+background-color: #3FBDE8;
+text-align: center;
+}
+
+.header{
+font-family: sans-serif;
+margin-top: -2%;
+margin-left: -1%;
+margin-right: -1%;
+padding: 2%;
+background-color: #93DE7A;
+font-size: 1.3em;
+color: white;
+border-radius: 15%;
+border: 2px white solid;
+}
+
+.jumbo {
+padding-bottom: 5%;
+font-size: 1.7em;
+display: block;
+}
+
+img{
+max-height: 35%;
+max-width: 40%;
+border-radius: 15%;
+}
+
+footer {
+font-size: 0.8em;
+background-color: #7AC5DE;
+color: white;
+margin-bottom: -10%;
+margin-left: -10%;
+margin-right: -10%;
+padding-top: 1px;
+padding-bottom: 1px;
+display: block;
+border-radius: 15%;
+}
+
+
+
